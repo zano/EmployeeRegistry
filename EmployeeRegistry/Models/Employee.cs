@@ -7,6 +7,8 @@ namespace EmployeeRegistry.Models
 {
     public class Employee
     {
+        // This is just a plain old C# object class
+
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
